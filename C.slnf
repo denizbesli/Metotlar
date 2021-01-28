@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "Metotlar.sln",
+    "projects": [
+      "DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+      "Matematik\\Matematik.csproj",
+      "Metotlar\\Metotlar.csproj"
+    ]
+  }
+}
